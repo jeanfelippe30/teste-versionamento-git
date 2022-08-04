@@ -1,6 +1,6 @@
 # teste-versionamento-git
 
-#comandos mais utilizados
+#Comandos mais utilizados no git
 
 
 #git branch
@@ -16,3 +16,9 @@ git add .
 git commit -m "teste"
 
 git push origin master
+
+git clone
+
+git status
+
+Git Init
